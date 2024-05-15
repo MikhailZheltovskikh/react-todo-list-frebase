@@ -1,0 +1,12 @@
+{
+	"todo": {
+		"1": {
+			"title": "уборка",
+			"completed": false
+		},
+		"2": {
+			"title": "готовка",
+			"completed": false
+		}
+	}
+}
